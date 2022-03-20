@@ -1,3 +1,3 @@
 method love.load() {
-    print("Hello world!");
+	print("Hello world!");
 }
